@@ -25,4 +25,13 @@
     border-radius: 4px;
     
 }
+.trial {
+    text-align: center;
+    padding: 200px 0 40px 0;
+    color: black;
+}
+.trial img{
+    width: 200px;
+    height: 200px;
+}
 
